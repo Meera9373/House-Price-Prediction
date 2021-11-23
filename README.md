@@ -23,3 +23,19 @@ Primarily, two types of feature scaling methods:
 
     Sklearn provides a class called StandardScaler for this
 
+**Model Outputs**
+
+Training Data
+
+1. Linear Regression - rmse = 4.835
+Mean:  5.037
+Standard deviation:  1.059
+2. Decision Tree Regressor - rmse = 0.0(Overfitting of training data)
+Mean:  4.136
+Standard deviation:  0.602
+3. Randon Forest Regressor - rmse = 1.22
+Mean:  3.348
+Standard deviation:  0.687
+
+
+
