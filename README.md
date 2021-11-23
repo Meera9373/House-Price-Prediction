@@ -38,4 +38,13 @@ Mean:  3.348
 Standard deviation:  0.687
 
 
+Test Data
+
+RandomforestRegressor:
+
+Final RMSE: 2.884
+
+
+
+
 
