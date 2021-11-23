@@ -12,10 +12,14 @@ Primarily, three types of objects
 
 Primarily, two types of feature scaling methods:
 1. Min-max scaling (Normalization)
-    (value - min)/(max - min)
+
+    (value - min)/(max - min).
+
     Sklearn provides a class called MinMaxScaler for this
     
 2. Standardization
-    (value - mean)/std
+
+    (value - mean)/std.
+
     Sklearn provides a class called StandardScaler for this
 
