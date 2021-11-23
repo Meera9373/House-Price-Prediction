@@ -1,4 +1,4 @@
-# House-Price-Prediction
+# House-Price-Prediction (ML Project)
 **Scikit-learn Design:**
 
 Primarily, three types of objects
